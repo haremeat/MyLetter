@@ -13,36 +13,14 @@
  */
 do_action( 'onepress_page_before_content' );
 ?>
-<div id="content" class="site-content">
-    <?php
-    $user_count = $wpdb->get_var( "SELECT COUNT(*) FROM $wpdb->users" );
-    echo "<p>User count is {$user_count}</p>";
-    ?>
 
-    <p>heheheheh22</p>
-    <?php
-    onepress_breadcrumb();
-    ?>
-    <div id="content-inside" class="container no-sidebar">
-        <div id="primary" class="content-area">
-            <main id="main" class="site-main" role="main">
+<?php
+// oh wow 드디어 커스텀 페이지를 만들 수 있겠구만 킄킄
 
-                <?php while ( have_posts() ) : the_post(); ?>
+$user_count = $wpdb->get_var( "SELECT COUNT(*) FROM $wpdb->users" );
+echo "<p>User count is {$user_count}</p>";
+?>
 
-                    <?php get_template_part( 'template-parts/content', 'page' ); ?>
-
-                    <?php
-                    // If comments are open or we have at least one comment, load up the comment template.
-                    if ( comments_open() || get_comments_number() ) :
-                        comments_template();
-                    endif;
-                    ?>
-
-                <?php endwhile; // End of the loop. ?>
-
-            </main><!-- #main -->
-        </div><!-- #primary -->
-    </div><!--#content-inside -->
-</div><!-- #content -->
+<p>heheheheh22</p>
 
 <?php //get_footer(); ?>
