@@ -17,7 +17,7 @@
 		<?php get_template_part( 'template-parts/header/entry', 'header' ); ?>
 	</header>
 	<?php endif; ?>
-
+    
 	<div class="entry-content">
 		<?php
 		the_content(
