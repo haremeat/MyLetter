@@ -5401,7 +5401,7 @@ ul.wp-block-latest-posts.is-grid.alignwide {
 
 .index-question > p {
     color: rgba(242, 249, 255, 0.8);
-    font-size: 2rem;
+    font-size: 2.5rem;
 }
 
 input:focus {
@@ -5418,4 +5418,13 @@ input:focus {
     left: 50%;
     top: 50%;
     transform: translate(-50%,-50%);
+}
+
+.index-password-submit-btn {
+    color: #394A91;
+    background-color: #E1EFFF;
+    margin-top: 20px;
+    font-size: 2rem !important;
+    min-width: 200px;
+    font-weight: bold !important;
 }

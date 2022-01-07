@@ -484,6 +484,26 @@ function onepress_the_excerpt( $type = false, $length = false ) {
 	}
 }
 
+//add_action( 'admin_post_check_hd_password', 'check_index_hd_password' );
+add_action( 'wp_ajax_check_hd_password', 'check_index_hd_password' );
+
+function check_index_hd_password() {
+    status_header(200);
+    //request handlers should exit() when they complete their task
+    exit("Server received '{$_POST['hd_password']}' from your browser.");
+
+    //$hd_password = $_POST['hd_password'];
+}
+
+function say_hello() {
+    return 'Hello World!';
+}
+add_shortcode( 'hello', 'say_hello' );
+
+function my_scripts() {
+    wp_enqueue_script( 'jquerytypewriter', get_stylesheet_directory_uri() . '/js/my.js', array('jquery'), '', true );
+}
+
 /**
  * Config class
  *

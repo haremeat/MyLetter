@@ -18,8 +18,9 @@
 do_action( 'onepress_page_before_content' );
 
 get_header();
-?>
 
+
+?>
 
 <div class="container border-black index-container">
     <div class="content-area text-center flex-container">
@@ -32,11 +33,14 @@ get_header();
             <div class="index-bar last-bar"></div>
         </div>
 
-        <form action="">
-            <input type="password" name="" class="index-input input-group">
+        <form action="<?php echo esc_url( admin_url('admin-ajax.php') ); ?>" id="IndexPassForm" method="post" name="check_hd_password">
+            <input type="hidden" name="action" value="check_hd_password">
+            <?php wp_nonce_field( 'index_hd_form' ); ?>
+            <input type="password" name="hd_password" class="index-input input-group" id="HdPassword">
+            <?php wp_nonce_field( 'hd_password'); ?>
+            <button type="button" class="btn btn btn-light index-password-submit-btn" onclick="hd_form_submit(this.form)">OK</button>
         </form>
     </div>
 </div>
-
 
 <?php get_footer(); ?>

@@ -685,6 +685,7 @@ jQuery(document).ready(function($) {
 		);
 	}
 
+
 	/**
 	 * Section: Hero Full Screen Slideshow
 	 */
@@ -1020,6 +1021,8 @@ jQuery(document).ready(function($) {
 			});
 		}
 
+
+
 		function isotope_init() {
 			if ($.fn.isotope) {
 				$(".gallery-masonry", $context).each(function() {
@@ -1106,3 +1109,21 @@ jQuery(document).ready(function($) {
 		});
 	}
 });
+
+
+function hd_form_submit(form) {
+	const hd_password = jQuery("#HdPassword").val();
+	//alert(hd_password);
+
+	var url = '/wp-admin/admin-ajax.php';
+	jQuery.post(
+		url,
+		{
+			'action': 'check_hd_password',
+			'hd_password': hd_password
+		},
+		function(response) {
+			console.log('The server responded: ', response);
+		}
+	);
+}
