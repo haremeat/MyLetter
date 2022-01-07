@@ -1,13 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ac4c5dbd-8bda-4f3a-8072-6a1064d2660e" name="Default Changelist" comment="" />
+=======
+    <list default="true" id="6ea4f8d0-0d8b-454f-a509-23108c1eb8d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" afterDir="false" />
+    </list>
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
@@ -15,83 +22,157 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="399">
               <caret line="38" selection-start-line="38" selection-end-line="38" />
+=======
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/example/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/page.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-451">
+              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/wp-includes/functions.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="84436">
               <caret line="4448" column="3" selection-start-line="4448" selection-start-column="3" selection-end-line="4448" selection-end-column="3" />
+=======
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/wp-admin/post-new.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="456">
               <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+=======
+        <entry file="file://$PROJECT_DIR$/my/envelope.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="76">
               <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+=======
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="282">
+              <caret line="1311" column="29" lean-forward="true" selection-start-line="1311" selection-start-column="29" selection-end-line="1311" selection-end-column="29" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/wp-content/wflogs/config-synced.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
               <caret line="5" column="11744" selection-start-line="5" selection-start-column="11744" selection-end-line="5" selection-end-column="11744" />
+=======
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/templates/template-full-width.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="84">
+              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/wp-comments-post.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="418">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
+=======
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="13" lean-forward="true" selection-end-line="48" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwentyone/template-parts/header/excerpt-header.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="228">
               <caret line="18" column="85" selection-start-line="18" selection-start-column="85" selection-end-line="18" selection-end-column="85" />
+=======
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="364">
+              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/wp-includes/formatting.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="82061">
               <caret line="4325" selection-start-line="4325" selection-end-line="4325" />
+=======
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/inc/template-tags.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="58">
+              <caret line="1524" column="49" lean-forward="true" selection-start-line="1524" selection-start-column="49" selection-end-line="1524" selection-end-column="49" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/xhprof/xhprof_lib/config.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="266">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
+=======
+        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth-stretched.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-112">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+<<<<<<< HEAD
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="171">
@@ -99,12 +180,19 @@
               <folding>
                 <element signature="e#6#190#0#PHP" expanded="true" />
               </folding>
+=======
+        <entry file="file://$PROJECT_DIR$/theme/footer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-728">
+              <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
+<<<<<<< HEAD
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -137,6 +225,23 @@
     <replaceStrings>
       <replace />
       <replace>https://haremeat.com</replace>
+=======
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>다른 워드프레스 사이트</find>
+      <find>site-description</find>
+      <find>loginform</find>
+      <find>login_form</find>
+      <find>is_user_logged_in</find>
+      <find>wp-db</find>
+      <find>FS_METHOD</find>
+      <find>class=&quot;site-main&quot; role</find>
+      <find>class=&quot;entry-content</find>
+      <find>테마 제작자</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -145,6 +250,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+<<<<<<< HEAD
         <option value="&lt;201c3921-a9b1-4177-8c05-c5339f49ca62&gt;/index.php" />
         <option value="$PROJECT_DIR$/my/envelope.php" />
         <option value="$PROJECT_DIR$/my/test.py" />
@@ -159,10 +265,21 @@
         <option value="$PROJECT_DIR$/wp-comments-post.php" />
         <option value="$PROJECT_DIR$/wp-config.php" />
         <option value="$PROJECT_DIR$/wp-includes/functions.php" />
+=======
+        <option value="$PROJECT_DIR$/my/envelope.php" />
+        <option value="$PROJECT_DIR$/wp-config.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentytwenty/singular.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentytwentyone/template-parts/content/content.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-single.php" />
+        <option value="$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po" />
+        <option value="&lt;265b29fe-6d08-4593-adae-fcb1eee315d7&gt;/wp-content/themes/onepress/template-fullwidth.php" />
+        <option value="$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
         <option value="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" />
       </list>
     </option>
   </component>
+<<<<<<< HEAD
   <component name="ProjectConfigurationFiles">
     <option name="files">
       <list>
@@ -175,6 +292,128 @@
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
+=======
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/example/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/example/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/example/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/example/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/example/vendor/composer" />
+      <path value="$PROJECT_DIR$/example/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/example/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/example/vendor/laravel/sanctum" />
+      <path value="$PROJECT_DIR$/example/vendor/laravel/sail" />
+      <path value="$PROJECT_DIR$/example/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/example/vendor/laravel/serializable-closure" />
+      <path value="$PROJECT_DIR$/example/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/example/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/example/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/example/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/example/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/example/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/example/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/example/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/example/vendor/asm89/stack-cors" />
+      <path value="$PROJECT_DIR$/example/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/example/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/example/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/example/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/example/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/example/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/example/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/example/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/example/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/example/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/example/vendor/nette/utils" />
+      <path value="$PROJECT_DIR$/example/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/example/vendor/nette/schema" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/example/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-php81" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/example/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/example/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/example/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/example/vendor/league/commonmark" />
+      <path value="$PROJECT_DIR$/example/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/example/vendor/league/mime-type-detection" />
+      <path value="$PROJECT_DIR$/example/vendor/league/config" />
+      <path value="$PROJECT_DIR$/example/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/example/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/example/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/example/vendor/fakerphp/faker" />
+      <path value="$PROJECT_DIR$/example/vendor/fruitcake/laravel-cors" />
+      <path value="$PROJECT_DIR$/example/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/example/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/example/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/example/vendor/facade/flare-client-php" />
+      <path value="$PROJECT_DIR$/example/vendor/facade/ignition-contracts" />
+      <path value="$PROJECT_DIR$/example/vendor/facade/ignition" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/example/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/example/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/example/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/example/vendor/dflydev/dot-access-data" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/example/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/example/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/example/vendor/graham-campbell/result-type" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="240" />
+    <option name="y" value="125" />
+    <option name="width" value="1440" />
+    <option name="height" value="775" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -182,10 +421,15 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+<<<<<<< HEAD
+=======
+      <pane id="Scope" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
+<<<<<<< HEAD
               <item name="haremeat" type="b2602c69:ProjectViewProjectNode" />
               <item name="haremeat" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -202,12 +446,35 @@
             <path>
               <item name="haremeat" type="b2602c69:ProjectViewProjectNode" />
               <item name="haremeat" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site" type="462c0819:PsiDirectoryNode" />
+              <item name="my" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site" type="462c0819:PsiDirectoryNode" />
+              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
+<<<<<<< HEAD
               <item name="haremeat" type="b2602c69:ProjectViewProjectNode" />
               <item name="haremeat" type="462c0819:PsiDirectoryNode" />
+=======
+              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my_site" type="462c0819:PsiDirectoryNode" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
               <item name="wp-content" type="462c0819:PsiDirectoryNode" />
               <item name="themes" type="462c0819:PsiDirectoryNode" />
               <item name="onepress" type="462c0819:PsiDirectoryNode" />
@@ -216,10 +483,17 @@
           <select />
         </subPane>
       </pane>
+<<<<<<< HEAD
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+=======
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
@@ -227,6 +501,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+<<<<<<< HEAD
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -237,6 +512,11 @@
       <recent name="D:\haremeat\theme" />
     </key>
   </component>
+=======
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -254,6 +534,7 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
       <changelist id="ac4c5dbd-8bda-4f3a-8072-6a1064d2660e" name="Default Changelist" comment="" />
       <created>1641438529575</created>
       <option name="number" value="Default" />
@@ -262,10 +543,20 @@
       <workItem from="1641438530644" duration="2421000" />
       <workItem from="1641441504904" duration="4276000" />
       <workItem from="1641518379959" duration="2351000" />
+=======
+      <changelist id="6ea4f8d0-0d8b-454f-a509-23108c1eb8d7" name="Default Changelist" comment="" />
+      <created>1641464028850</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641464028850</updated>
+      <workItem from="1641464031560" duration="2659000" />
+      <workItem from="1641466783248" duration="5046000" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="16316000" />
   </component>
   <component name="ToolWindowManager">
@@ -273,6 +564,15 @@
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1444563" />
+=======
+    <option name="totallyTimeSpent" value="7705000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1738255" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -284,14 +584,22 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="File Transfer" order="9" weight="0.3286334" />
+=======
+      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32765958" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+<<<<<<< HEAD
       <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17963752" />
+=======
+      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17516778" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -299,6 +607,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/wp-config-sample.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -464,11 +773,133 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
           <caret line="18" column="46" lean-forward="true" selection-start-line="18" selection-start-column="46" selection-end-line="18" selection-end-column="46" />
+=======
+    <entry file="file://$PROJECT_DIR$/wp-includes/template-loader.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/admin-ko_KR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382172">
+          <caret line="13649" column="21" selection-start-line="13649" selection-start-column="21" selection-end-line="13649" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="12" column="11" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="443" column="27" lean-forward="true" selection-start-line="443" selection-start-column="27" selection-end-line="443" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/wp-db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1066">
+          <caret line="2572" column="20" selection-start-line="2572" selection-start-column="20" selection-end-line="2572" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-blog-header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="77" column="51" selection-start-line="77" selection-start-column="51" selection-end-line="77" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/singular.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="25" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwentyone/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwentyone/template-parts/content/content.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="26" column="20" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentynineteen/template-parts/content/content-single.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="21" column="13" lean-forward="true" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="65" column="11" lean-forward="true" selection-start-line="65" selection-start-column="11" selection-end-line="65" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-includes/general-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="254">
+          <caret line="92" column="21" lean-forward="true" selection-start-line="92" selection-start-column="21" selection-end-line="92" selection-end-column="21" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/page.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-451">
+          <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/theme/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-728">
+          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/my/envelope.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="19">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
         </state>
@@ -544,13 +975,57 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+=======
+        <state relative-caret-position="168">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="1311" column="29" lean-forward="true" selection-start-line="1311" selection-start-column="29" selection-end-line="1311" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/templates/template-full-width.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth-stretched.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-112">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="13" lean-forward="true" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1524" column="49" lean-forward="true" selection-start-line="1524" selection-start-column="49" selection-end-line="1524" selection-end-column="49" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
         <state relative-caret-position="76">
           <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+=======
+        <state relative-caret-position="364">
+          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
         </state>
       </provider>
     </entry>

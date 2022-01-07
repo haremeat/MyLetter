@@ -1,6 +1,10 @@
 <?php
 /**
+<<<<<<< HEAD
  *Template Name: Custom Page
+=======
+ *Template Name: Full Width - Contained Content
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
  *
  * @package OnePress
  */

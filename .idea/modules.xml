@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
       <module fileurl="file://$PROJECT_DIR$/.idea/haremeat.iml" filepath="$PROJECT_DIR$/.idea/haremeat.iml" />
+=======
+      <module fileurl="file://$PROJECT_DIR$/.idea/my_site.iml" filepath="$PROJECT_DIR$/.idea/my_site.iml" />
+>>>>>>> 98c92ebe16cffdf852114c0f1dd6f0b4f5308ff0
     </modules>
   </component>
 </project>
