@@ -490,9 +490,32 @@ add_action( 'wp_ajax_check_hd_password', 'check_index_hd_password' );
 function check_index_hd_password() {
     status_header(200);
     //request handlers should exit() when they complete their task
-    exit("Server received '{$_POST['hd_password']}' from your browser.");
+    //exit("Server received '{$_POST['hd_password']}' from your browser.");
 
-    //$hd_password = $_POST['hd_password'];
+    $kind = $_POST['kind'];
+    $hd_password = $_POST['hd_password'];
+    global $wpdb;
+    $password_db = $wpdb->get_row( "SELECT * FROM wp_passwords WHERE kind = '{$kind}'" );
+
+    $right_password = $password_db->password;
+
+    if ($hd_password == $right_password) {
+        $status = "S-1";
+        $msg = "ㅊㅊ";
+        $wp_session = WP_Session::get_instance();
+
+
+    } else {
+        $status = "F-1";
+        $msg = "비밀번호를 확인해주세요";
+    }
+
+    $array_result = array(
+        'status' => $status,
+        'msg' => $msg
+    );
+
+    wp_send_json($array_result);
 }
 
 function say_hello() {
