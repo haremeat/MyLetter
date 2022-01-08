@@ -685,6 +685,7 @@ jQuery(document).ready(function($) {
 		);
 	}
 
+
 	/**
 	 * Section: Hero Full Screen Slideshow
 	 */
@@ -1020,6 +1021,8 @@ jQuery(document).ready(function($) {
 			});
 		}
 
+
+
 		function isotope_init() {
 			if ($.fn.isotope) {
 				$(".gallery-masonry", $context).each(function() {
@@ -1106,3 +1109,33 @@ jQuery(document).ready(function($) {
 		});
 	}
 });
+
+
+function hd_form_submit(form) {
+	const hd_password = jQuery("#HdPassword").val();
+	//alert(hd_password);
+
+	if (hd_password == "") {
+		alert("비밀번호를 입력해주십시오");
+		return false;
+	}
+
+	var url = '/wp-admin/admin-ajax.php';
+	jQuery.post(
+		url,
+		{
+			'action': 'check_hd_password',
+			'hd_password': hd_password,
+			'kind': "hd"
+		},
+		function(response) {
+
+			if (response.msg == "S-1") {
+				
+			} else {
+				alert(response.msg);
+			}
+
+		}
+	);
+}

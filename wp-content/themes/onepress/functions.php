@@ -484,6 +484,49 @@ function onepress_the_excerpt( $type = false, $length = false ) {
 	}
 }
 
+//add_action( 'admin_post_check_hd_password', 'check_index_hd_password' );
+add_action( 'wp_ajax_check_hd_password', 'check_index_hd_password' );
+
+function check_index_hd_password() {
+    status_header(200);
+    //request handlers should exit() when they complete their task
+    //exit("Server received '{$_POST['hd_password']}' from your browser.");
+
+    $kind = $_POST['kind'];
+    $hd_password = $_POST['hd_password'];
+    global $wpdb;
+    $password_db = $wpdb->get_row( "SELECT * FROM wp_passwords WHERE kind = '{$kind}'" );
+
+    $right_password = $password_db->password;
+
+    if ($hd_password == $right_password) {
+        $status = "S-1";
+        $msg = "ㅊㅊ";
+        $wp_session = WP_Session::get_instance();
+
+
+    } else {
+        $status = "F-1";
+        $msg = "비밀번호를 확인해주세요";
+    }
+
+    $array_result = array(
+        'status' => $status,
+        'msg' => $msg
+    );
+
+    wp_send_json($array_result);
+}
+
+function say_hello() {
+    return 'Hello World!';
+}
+add_shortcode( 'hello', 'say_hello' );
+
+function my_scripts() {
+    wp_enqueue_script( 'jquerytypewriter', get_stylesheet_directory_uri() . '/js/my.js', array('jquery'), '', true );
+}
+
 /**
  * Config class
  *

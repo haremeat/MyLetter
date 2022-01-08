@@ -1,0 +1,10 @@
+body {
+    background-image: url("../images/letter/back_grond.png");
+    background-repeat : no-repeat;
+    background-size : cover;
+}
+
+
+.backstretch {
+    background-color: #008998;
+}

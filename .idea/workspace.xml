@@ -2,7 +2,102 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6ea4f8d0-0d8b-454f-a509-23108c1eb8d7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.env.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitattributes" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/.styleci.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Console/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Exceptions/Handler.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Controllers/Controller.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Kernel.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/Authenticate.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/EncryptCookies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/PreventRequestsDuringMaintenance.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/RedirectIfAuthenticated.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/TrimStrings.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/TrustHosts.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/TrustProxies.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Http/Middleware/VerifyCsrfToken.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Models/User.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Providers/AppServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Providers/AuthServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Providers/BroadcastServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Providers/EventServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/app/Providers/RouteServiceProvider.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/artisan" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/bootstrap/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/bootstrap/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/composer.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/composer.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/app.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/broadcasting.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/cache.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/cors.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/database.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/filesystems.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/hashing.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/logging.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/mail.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/queue.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/sanctum.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/services.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/session.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/config/view.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/factories/UserFactory.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/migrations/2014_10_12_000000_create_users_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/migrations/2014_10_12_100000_create_password_resets_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/migrations/2019_12_14_000001_create_personal_access_tokens_table.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/database/seeders/DatabaseSeeder.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/phpunit.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/public/.htaccess" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/public/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/css/app.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/js/app.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/lang/en/auth.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/lang/en/pagination.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/lang/en/passwords.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/lang/en/validation.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/resources/views/welcome.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/routes/api.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/routes/channels.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/routes/console.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/routes/web.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/server.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/app/public/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/cache/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/cache/data/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/sessions/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/testing/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/framework/views/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/storage/logs/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/tests/CreatesApplication.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/tests/Feature/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/tests/TestCase.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/tests/Unit/ExampleTest.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/example/webpack.mix.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/assets/css/customizer.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/assets/css/customizer.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/assets/js/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/assets/js/theme.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/functions.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/functions.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/wflogs/config-livewaf.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-livewaf.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/wflogs/config-synced.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-synced.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/wflogs/config-transient.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/wflogs/config-transient.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/wflogs/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/wflogs/config.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,7 +105,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/example/composer.json</pharConfigPath>
     <execution>
       <executable />
@@ -19,93 +114,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/page.php">
+        <entry file="file://$PROJECT_DIR$/xhprof/examples/sample.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-451">
-              <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/my/envelope.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="1311" column="29" lean-forward="true" selection-start-line="1311" selection-start-column="29" selection-end-line="1311" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/twentytwenty/templates/template-full-width.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="10" column="32" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="16" column="13" lean-forward="true" selection-end-line="48" />
+            <state relative-caret-position="291">
+              <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+              <folding>
+                <element signature="n#style#0;n#pre#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="364">
-              <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+            <state relative-caret-position="252">
+              <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/inc/template-tags.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="58">
-              <caret line="1524" column="49" lean-forward="true" selection-start-line="1524" selection-start-column="49" selection-end-line="1524" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth-stretched.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-112">
-              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/theme/footer.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-728">
-              <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
-            </state>
-          </provider>
+      <file pinned="true" current-in-tab="false">
+        <entry file="remoteDeploymentFS://&lt;265b29fe-6d08-4593-adae-fcb1eee315d7&gt;/index.php">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -122,6 +153,7 @@
       <find>class=&quot;site-main&quot; role</find>
       <find>class=&quot;entry-content</find>
       <find>테마 제작자</find>
+      <find>neterror</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -142,6 +174,8 @@
         <option value="&lt;265b29fe-6d08-4593-adae-fcb1eee315d7&gt;/wp-content/themes/onepress/template-fullwidth.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php" />
         <option value="$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php" />
+        <option value="&lt;265b29fe-6d08-4593-adae-fcb1eee315d7&gt;/index.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -272,7 +306,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -280,33 +313,11 @@
               <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
               <item name="my_site" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_site" type="462c0819:PsiDirectoryNode" />
-              <item name="my" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="my_site" type="b2602c69:ProjectViewProjectNode" />
-              <item name="my_site" type="462c0819:PsiDirectoryNode" />
-              <item name="wp-content" type="462c0819:PsiDirectoryNode" />
-              <item name="themes" type="462c0819:PsiDirectoryNode" />
-              <item name="onepress" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,18 +355,20 @@
       <option name="presentableId" value="Default" />
       <updated>1641464028850</updated>
       <workItem from="1641464031560" duration="2659000" />
-      <workItem from="1641466783248" duration="5046000" />
+      <workItem from="1641466783248" duration="5123000" />
+      <workItem from="1641608269078" duration="1976000" />
+      <workItem from="1641639113637" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7705000" />
+    <option name="totallyTimeSpent" value="9803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1738255" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14295302" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -367,14 +380,14 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="File Transfer" order="9" weight="0.32765958" />
+      <window_info anchor="bottom" id="File Transfer" order="9" visible="true" weight="0.32765958" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
       <window_info anchor="bottom" id="Terminal" order="11" />
       <window_info anchor="bottom" id="Event Log" order="12" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Remote Host" order="3" visible="true" weight="0.17516778" />
+      <window_info active="true" anchor="right" id="Remote Host" order="3" visible="true" weight="0.17516778" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
   </component>
@@ -414,13 +427,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1066">
           <caret line="2572" column="20" selection-start-line="2572" selection-start-column="20" selection-end-line="2572" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
@@ -485,36 +491,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/page.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-451">
+        <state relative-caret-position="308">
           <caret line="22" column="42" selection-start-line="22" selection-start-column="42" selection-end-line="22" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/theme/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth-stretched.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-728">
-          <caret line="10" column="70" lean-forward="true" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        <state relative-caret-position="308">
+          <caret line="15" column="39" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/footer.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="476">
+          <caret line="25" column="30" lean-forward="true" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/my/envelope.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="336">
+          <caret line="16" column="13" selection-end-line="48" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-auth.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="1311" column="29" lean-forward="true" selection-start-line="1311" selection-start-column="29" selection-end-line="1311" selection-end-column="29" />
+        <state relative-caret-position="420">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/inc/template-tags.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1524" column="49" selection-start-line="1524" selection-start-column="49" selection-end-line="1524" selection-end-column="49" />
         </state>
       </provider>
     </entry>
@@ -525,31 +538,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth-stretched.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/languages/themes/onepress-ko_KR.po">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-112">
-          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
+        <state relative-caret-position="282">
+          <caret line="1311" column="29" selection-start-line="1311" selection-start-column="29" selection-end-line="1311" selection-end-column="29" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-fullwidth.php">
+    <entry file="file://$PROJECT_DIR$/my/envelope.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="13" lean-forward="true" selection-end-line="48" />
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/inc/template-tags.php">
+    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="1524" column="49" lean-forward="true" selection-start-line="1524" selection-start-column="49" selection-end-line="1524" selection-end-column="49" />
+        <state relative-caret-position="252">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/wp-content/themes/onepress/template-custompage.php">
+    <entry file="file://$PROJECT_DIR$/theme/footer.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="17" column="35" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        <state relative-caret-position="28">
+          <caret line="10" column="70" selection-start-line="10" selection-start-column="70" selection-end-line="10" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xhprof/examples/sample.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+          <folding>
+            <element signature="n#style#0;n#pre#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="4" />
         </state>
       </provider>
     </entry>
